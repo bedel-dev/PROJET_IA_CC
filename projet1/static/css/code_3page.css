@@ -1,0 +1,29 @@
+td,th{
+  border: 1px solid black;
+  font-family: monospace;
+
+}
+table{
+  border-collapse: collapse;
+  font-family: monospace;
+  font-size: 45pt;
+
+}
+input {
+  padding: 5px;
+  font-size: 14pt;
+  font-family: monospace;
+
+}
+h1{
+  font-size: 25pt;
+  font-family: monospace;
+}
+p{
+  font-family: monospace;
+  font-size: 15pt;;
+}
+th{
+  background-color: gray;
+
+}
